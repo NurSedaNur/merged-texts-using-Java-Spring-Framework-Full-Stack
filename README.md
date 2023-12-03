@@ -1,8 +1,7 @@
 # merged-texts-using-Java-Spring-Framework-Full-Stack
  merged-texts-using-Java-Spring-Framework-Full-Stack
  
- Projeye ait detaylı bilgiye rapordan ulaşabilirsiniz.
- [Rapor.pdf](https://github.com/NurSedaNur/merged-texts-using-Java-Spring-Framework-Full-Stack/files/12652577/Rapor.pdf)
+ Projeye ait detaylı bilgiye Rapor(1).pdf dosyasından ulaşabilirsiniz.
 
 
  • Giriş
